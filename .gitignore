@@ -1,0 +1,8 @@
+# KiCad backups
+*-backups/
+
+# Local history/editor folders
+.history/
+
+# KiCad local user workspace settings
+*.kicad_prl
